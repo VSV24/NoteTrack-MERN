@@ -1,6 +1,6 @@
-# 💡 NoteTrack: A Comprehensive MERN Stack Note-Taking Application
+#  NoteTrack: [A Comprehensive MERN Stack Note-Taking Application](https://notetrack-mern.onrender.com)
 
-## 🎯 Project Overview
+## 🎯 Project Overview:   link👉 [view project](https://notetrack-mern.onrender.com)
 
 **NoteTrack** is a beginner-friendly, full-stack **note-taking application** built using the **MERN stack** (MongoDB, Express, React, Node.js).  
 This project demonstrates the creation and deployment of a **fully functional REST API** alongside a **modern, responsive web application**.
